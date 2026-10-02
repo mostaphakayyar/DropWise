@@ -1,0 +1,19 @@
+DropWise
+→ Python engineering
+→ Git/GitHub
+→ OOP
+→ Testing
+→ ML/DL
+→ LLMs
+→ RAG
+→ FastAPI
+→ Docker
+→ Flet
+→ Liquid Glass UI
+→ Cosmic Loop dashboard
+→ MSIX
+→ Microsoft Store
+
+And the visual concept is already defined:
+
+🌌 Universe background + 🫧 circular Loop tasks + 🧊 Liquid Glass controls + 🤖 AI that turns messy information into actionable loops.
