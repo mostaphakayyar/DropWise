@@ -7,7 +7,9 @@ name = "dropwise"
 version = "0.1.0"
 description = "DropWise - Turn messy inputs into actionable next steps"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "flet>=0.28"
+]
 
 [project.optional-dependencies]
 dev = [
